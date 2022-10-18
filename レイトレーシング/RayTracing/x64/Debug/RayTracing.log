@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Users\2016023\Desktop\レイトレーシング\RayTracing\main.cpp(217,54): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\Users\2016023\Desktop\レイトレーシング\RayTracing\main.cpp(217,44): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\Users\2016023\Desktop\レイトレーシング\RayTracing\main.cpp(217,34): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  RayTracing.vcxproj -> D:\Users\2016023\Desktop\レイトレーシング\x64\Debug\RayTracing.exe
